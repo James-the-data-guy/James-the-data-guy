@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-James-the-data-guy/James-the-data-guy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+James_the_data_engineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
